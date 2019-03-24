@@ -1,2 +1,4 @@
+server:
+    port:8911
 foo11: foo version 1
-configword11: hello World！
+configword: hello World!
