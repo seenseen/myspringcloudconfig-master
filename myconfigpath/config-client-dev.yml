@@ -1,4 +1,4 @@
 server:
-    port:8911
-foo11: foo version 1
-configword: hello World!
+  port: 8761
+foo: foo version 1.0.0
+configword: hello New World！
