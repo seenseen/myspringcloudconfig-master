@@ -1,4 +1,2 @@
-server:
-  port: 8769
-foo: foo version 1
-configword: helloWorld
+foo11: foo version 1
+configword11: hello World！
